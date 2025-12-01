@@ -1,4 +1,4 @@
-# My-Projects
+# College-Projects
 
 A depository for past programs I coded or contributed to during college; small individual projects organized by folder, covering different languages and frameworks.
 
@@ -6,13 +6,13 @@ A depository for past programs I coded or contributed to during college; small i
 
 Below are the main projects / folders in this repository, with a brief description:
 
-| Folder / Project                                 | Description / Purpose                                                                                                                                                                                                                |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **AI_Tensorflow**                                | - **Goal:** Developed AI models for tasks such as image and text classification, implementing machine learning workflows end-to-end. <br> - **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib. networks, data modeling. |
-| **Bitwise_Operations**                           | - **Goal:** Implemented and explored various bitwise operations to optimize computational efficiency in algorithms. <br> - **Technologies:** Python, C++, console-based input/output. Practice or learning low-level logic.          |
-| **Register and Log in Website - Front End, Php** | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling. <br> - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                                          |
-| **Restaurant Website**                           | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling. <br> - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                                          |
-| **Weather App Website**                          | - **Goal:** Developed a web application to fetch and display real-time weather information using API integration. <br> - **Technologies:** JavaScript, HTML, CSS, OpenWeatherMap API.                                                |
+| Project                          | Description / Purpose                                                                                                                                                                                                                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Text Classification Model AI** | - **Goal:** Developed AI models for tasks such as image and text classification, implementing machine learning workflows end-to-end. <br> - **Technologies:** Python, TensorFlow, Keras, NumPy, Matplotlib. networks, data modeling.                                                        |
+| **Low Level Bitwise Logic**      | - **Goal:** Designed and implemented a simple programming language prototype, incorporating bitwise operations to emulate low-level computational logic and language functionality. <br> - **Technologies:** Python, C++, console-based input/output. Practice or learning low-level logic. |
+| **Register and Log in Website**  | - **Goal:** Built a user registration and login system with database integration for secure user authentication. <br> - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                                                                                                |
+| **Restaurant Website**           | - **Goal:** Created a dynamic restaurant website with menu display, user interaction, and reservation handling. <br> - **Technologies:** PHP, HTML, CSS, JavaScript, MySQL.                                                                                                                 |
+| **Weather App Website**          | - **Goal:** Developed a web application to fetch and display real-time weather information using API integration. <br> - **Technologies:** JavaScript, HTML, CSS, OpenWeatherMap API.                                                                                                       |
 
 ## 🧰 Languages & Technologies Used
 
